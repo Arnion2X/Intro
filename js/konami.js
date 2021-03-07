@@ -15,7 +15,7 @@ var keyHandler = function (event) {
 	// If complete, alert and reset
 	if (pattern.length === current) {
 		current = 0;
-		document.location.href="game/Contra.html";
+		document.location.href="https://www.netflix.com/tw/title/80997338";
 	}
 
 };
